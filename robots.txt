@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://retirement-calculator.tabutility.com/sitemap.xml
